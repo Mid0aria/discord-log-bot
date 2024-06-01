@@ -1,0 +1,17 @@
+{
+    "bot": {
+        "token": "xxx"
+    },
+    "db": {
+        "type": "json, mysql or mongodb",
+        "mysql": {
+            "MYSQL_HOST": "xxx",
+            "MYSQL_USER": "xxx",
+            "MYSQL_PWD": "xxx",
+            "MYSQL_DB": "logger"
+        },
+        "mongo": {
+            "MONGO_TOKEN": "mongodb+srv://xxx"
+        }
+    }
+}

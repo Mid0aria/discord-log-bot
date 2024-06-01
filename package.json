@@ -1,0 +1,28 @@
+{
+    "name": "discord-log-bot",
+    "version": "1.0.0",
+    "description": "Make your own discord log bot with 3 different database support",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "discord.js",
+        "discord",
+        "discord",
+        "bot",
+        "bot",
+        "log",
+        "logbot"
+    ],
+    "author": "mido",
+    "license": "MIT",
+    "dependencies": {
+        "@discordjs/builders": "^1.8.1",
+        "chalk": "^4.1.2",
+        "croxydb": "^0.0.24",
+        "discord.js": "^14.15.2",
+        "mongoose": "^8.4.0",
+        "mysql2": "^3.9.8"
+    }
+}
