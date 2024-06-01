@@ -33,6 +33,7 @@ if you need help, join the Discord server [here](https://discord.gg/WzYXVbXt6C)
 
 -   Assigns the logs of almost all mismatch events to the channel you set
 -   Auto Installing Dependencies
+-   Anti Crash
 -   Multi Database Support
     -   JSON
     -   MYSQL
@@ -58,8 +59,6 @@ if you need help, join the Discord server [here](https://discord.gg/WzYXVbXt6C)
         }
     }
 }
-
-
 
 ```
 
