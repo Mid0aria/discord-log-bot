@@ -129,5 +129,23 @@ if (config.db.type.trim().toLowerCase() === "json") {
     (async () => await require("./databases/mongodb")())();
     client.db = {};
     client.db.type = "mongodb";
+} else {
+    const db = require("croxydb");
+    client.db = db;
+    client.db.type = "json";
+
+    console.log(
+        chalk.blue(`Database`),
+        chalk.white(`>>`),
+        chalk.red(
+            `JSON database is automatically selected because no database type is selected!`
+        )
+    );
+    console.log(
+        chalk.blue(chalk.bold(`Database`)),
+        chalk.white(`>>`),
+        chalk.red(`JSON`),
+        chalk.green(`is ready!`)
+    );
 }
 client.login(config.bot.token);
