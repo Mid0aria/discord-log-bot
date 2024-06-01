@@ -24,5 +24,13 @@
         "discord.js": "^14.15.2",
         "mongoose": "^8.4.0",
         "mysql2": "^3.9.8"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mid0aria/discord-log-bot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Mid0aria/discord-log-bot/issues"
+    },
+    "homepage": "https://github.com/Mid0aria/discord-log-bot#readme"
 }
