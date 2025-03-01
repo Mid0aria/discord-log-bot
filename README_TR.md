@@ -5,7 +5,7 @@ dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM=
 
 #### **Yardıma mı ihtiyacın var?**  
 
-Bir öğreticiye mi ihtiyacın var? [YouTube videosunu izle](https://www.youtube.com/watch?v=QYC9apZHG5o)  
+Bir video öğreticisine mi ihtiyacın var? [YouTube videosunu izle](https://www.youtube.com/watch?v=QYC9apZHG5o)  
 
 Eğer yardım gerekiyorsa, [buradaki Discord sunucusuna katıl](https://discord.gg/WzYXVbXt6C).  
 
@@ -33,7 +33,7 @@ Eğer yardım gerekiyorsa, [buradaki Discord sunucusuna katıl](https://discord.
 
 ## **👑・Özellikler**  
 
-- Çoğu uyumsuz olayın günlüklerini belirlediğin kanala atar  
+- Çoğu discord event günlüklerini belirlediğin kanala atar  
 - Bağımlılıkları otomatik yükler  
 - Çökme koruması  
 - Çoklu veritabanı desteği:  
