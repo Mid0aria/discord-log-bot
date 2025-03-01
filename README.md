@@ -8,6 +8,9 @@ dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM=
 [![Total Views](https://hits.sh/github.com/Mid0aria/discord-log-bot.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6)](https://github.com/Mid0aria/discord-log-bot)
 [![Last Commit](https://img.shields.io/github/last-commit/mid0aria/discord-log-bot)](https://github.com/Mid0aria/discord-log-bot)
 
+## Türkçe içerik.
+[Türkçe içeriğe ulaşmak için tıkla.](https://github.com/TexaPY/discord-log-bot/blob/main/README_TR.md)
+
 ## Need a help ?
 
 Do you need a tutorial? [Watch Youtube Video](https://www.youtube.com/watch?v=QYC9apZHG5o)
